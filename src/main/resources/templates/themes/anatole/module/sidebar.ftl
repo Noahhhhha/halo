@@ -15,8 +15,10 @@
         </div>
     </div>
     <#include "social-list.ftl">
+
     <div class="footer">
         <a target="_blank" href="#">
+            <span>Build by wxs & lyf</span><br>
             <#-- 不允许修改该主题信息，也不能删除。 -->
             <span>Designed by </span>
             <a href="https://www.caicai.me">CaiCai</a>
@@ -28,4 +30,5 @@
             </div>
         </a>
     </div>
+
 </div>
